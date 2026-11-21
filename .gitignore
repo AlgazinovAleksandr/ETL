@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ETL source files and local exports
+data/
+
+GLOSSARY.md
+
+# macOS
+.DS_Store
